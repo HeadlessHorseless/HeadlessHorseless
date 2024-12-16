@@ -2,4 +2,4 @@
 
 #### i currently work on a sourcemod cheat called Neuoanitic which is a rewrite of Oanitic (the original sucks please don't use it for anything ever not even sandbox usage)
 
-#### i once did gmod addons but i stopped because i don't like lua
+#### i occasionally do gmod addons in lua whenever i feel like it (or just have a really stupid idea that i really want to see in gmod)
